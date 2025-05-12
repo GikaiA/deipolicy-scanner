@@ -1,12 +1,11 @@
 
 import './App.css'
-import DeiSearchForm from './DeiSearchForm/DeiSearchForm'
-
+import SearchComponent from './components/SearchComponent'
 function App() {
 
   return (
     <>
-     <DeiSearchForm/>
+     <SearchComponent/>
     </>
   )
 }

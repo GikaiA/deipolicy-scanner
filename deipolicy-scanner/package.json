@@ -3,6 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
+  "description": "Web application to search and extract DEI policies from websites using ChatGPT API",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
